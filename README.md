@@ -1,2 +1,2 @@
 # Tarea_M2
-mi tarea modulo2
+contiene la resolución del último ejercicio de la Clase 10
