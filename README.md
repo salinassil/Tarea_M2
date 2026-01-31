@@ -1,2 +1,2 @@
-# Contiene material adicional y ejemplos de la especialización en ciencia de datos
+# Contiene material adicional y ejemplos de la Especialización en Ciencia de Datos
 
